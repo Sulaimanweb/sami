@@ -1,0 +1,19 @@
+body{
+	background-size:90%;
+	
+
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+.sami {
+	color: blue;
+}
+p {
+	color: white;
+	font-size: 20px;
+}
+pre {
+	color: white; 
+}
